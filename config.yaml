@@ -1,4 +1,5 @@
-key: foo
-value: bar
-key: pleh
-value: help
+config:
+    key: foo
+    value: bar
+    key: pleh
+    value: help
