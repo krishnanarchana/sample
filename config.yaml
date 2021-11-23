@@ -1,6 +1,6 @@
-- key: bar
-  value: one
-   
-- key: foo
-  value: bar
+config:
+   - key: bar
+     value: one
+   - key: foo
+     value: bar
    
