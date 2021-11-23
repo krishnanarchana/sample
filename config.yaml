@@ -1,5 +1,4 @@
-foo: bar
-    pleh: help
-     stuff:
-       foo: bar
-       bar: foo
+key: foo
+value: bar
+key: pleh
+value: help
