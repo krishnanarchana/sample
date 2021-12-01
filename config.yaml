@@ -1,6 +1,6 @@
 config:
-   - key: bar
+   - key: bag
      value: one
-   - key: foo
+   - key: bottle
      value: bar
    
