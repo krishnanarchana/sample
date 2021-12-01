@@ -1,4 +1,4 @@
-lconfig:
+config:
    - key: bag
      value: hello
    - key: bottle
