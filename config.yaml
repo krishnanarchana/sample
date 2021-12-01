@@ -1,6 +1,6 @@
-config:
+lconfig:
    - key: bag
-     value: one
+     value: hello
    - key: bottle
-     value: bar
+     value: hi
    
