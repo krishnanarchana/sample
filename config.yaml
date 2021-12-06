@@ -1,6 +1,6 @@
 config:
-   - key: bag
-     value: hello
-   - key: bottle
-     value: hi
+   - key: cpu
+     value: memory
+   - key: free
+     value: space
    
