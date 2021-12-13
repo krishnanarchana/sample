@@ -1,0 +1,7 @@
+config:
+  - key: html
+    value: userguide
+  - key: profiles
+    value: ditavals
+
+    

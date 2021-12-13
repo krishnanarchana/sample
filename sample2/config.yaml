@@ -1,0 +1,6 @@
+config:
+  - key: args.copycss
+    value: arg
+  - key: args.css
+    value: dita-ot-doc.css
+
